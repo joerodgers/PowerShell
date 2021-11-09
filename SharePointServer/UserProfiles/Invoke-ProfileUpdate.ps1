@@ -1,5 +1,4 @@
-﻿
-Add-PSSnapin Microsoft.SharePoint.PowerShell -ErrorAction SilentlyContinue | Out-Null
+﻿Add-PSSnapin Microsoft.SharePoint.PowerShell -ErrorAction SilentlyContinue | Out-Null
 
 
 function Invoke-FakeProfileUpdate
